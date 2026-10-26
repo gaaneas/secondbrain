@@ -2,6 +2,8 @@
 
 ## \# FOUNDATIONS 
 
+Who I am: mission, ranked priorities, goals, frameworks, how I make decisions, and a decision log. 
+
 \#\# My goals right now   
 1\. Work: Build systems that help my team hit our targets: 65% monthly   
    renewal rate and at least \$30K in monthly upgrades.  
