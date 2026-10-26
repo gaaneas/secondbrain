@@ -1,4 +1,6 @@
-**SOUL**
+# Foundation Documents 
+
+## \# SOUL
 
 How you think and sound. Your core values, voice and non-negotiables. 
 
