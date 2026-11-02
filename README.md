@@ -6,6 +6,7 @@ Before any task, read in this order:
 3. IDENTITY.md
 4. FOUNDATIONS.md
 5. BOUNDARIES.md
+
 If something is unclear, ask me.
 Never assume. Never act outside
 BOUNDARIES.md.
